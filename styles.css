@@ -1,0 +1,28 @@
+.general{
+     width: 1000px;
+     height: 700px;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tarjetas{
+    
+    padding-left: 20px;
+    border-radius: 3px;    
+    margin-right: 45px;
+   
+}
+
+p{
+    color:gray;
+    font-size: 14px;
+}
+
+label{
+    font-weight: bold;
+}
